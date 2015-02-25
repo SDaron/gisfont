@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2015 by original authors @ fontello.com</metadata>
+<defs>
+<font id="gisfont" horiz-adv-x="1000" >
+<font-face font-family="gisfont" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="layers" unicode="&#xe800;" d="m0 350l91 46 409-205 409 205 91-46-500-250z m0 136l500 228 500-228-500-250z m0-272l91 45 409-204 409 204 91-45-500-250z" horiz-adv-x="1000" />
+<glyph glyph-name="layer" unicode="&#xe801;" d="m0 259l91 46 409-205 409 205 91-46-500-250z m0 137l500 227 500-227-500-250z" horiz-adv-x="1000" />
+<glyph glyph-name="tile-layer" unicode="&#xe802;" d="m0 259l91 46 409-205 409 205 91-46-500-250z m0 137l227 113 228-113-228-114z m273 136l227 114 227-114-227-114z m0-273l227 114 227-114-227-113z m273 137l227 113 227-113-227-114z" horiz-adv-x="1000" />
+<glyph glyph-name="vector-layer" unicode="&#xe803;" d="m0 259l91 46 409-205 409 205 91-46-500-250z m0 137l318 159 137-159-46-160-45-22z m364 181l136 69 227-114-227-114z m45-386l46 23 159 147 159 148 227-113-500-250z" horiz-adv-x="1000" />
+<glyph glyph-name="heatmap-layer" unicode="&#xe804;" d="m0 286l103 51 461-231 462 231 102-51-564-282z m359 333l-359-179 410-205z m51 26l103 51 51-538-102 51z m513-103l51-179 154 77z m-359 180l51-26 52-487-52-26z" horiz-adv-x="1128" />
+</font>
+</defs>
+</svg>
