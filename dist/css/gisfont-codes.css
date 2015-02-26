@@ -1,6 +1,11 @@
 
-.gf-heatmap-layer:before { content: '\e800'; } /* '' */
-.gf-vector-layer:before { content: '\e801'; } /* '' */
-.gf-tile-layer:before { content: '\e802'; } /* '' */
-.gf-layer:before { content: '\e803'; } /* '' */
-.gf-layers:before { content: '\e804'; } /* '' */
+.gf-layer:before { content: '\e800'; } /* '' */
+.gf-layer-heatmap:before { content: '\e801'; } /* '' */
+.gf-layers:before { content: '\e802'; } /* '' */
+.gf-layer-tile:before { content: '\e803'; } /* '' */
+.gf-layer-vector:before { content: '\e804'; } /* '' */
+.gf-source-tile:before { content: '\e805'; } /* '' */
+.gf-source-vector:before { content: '\e806'; } /* '' */
+.gf-vector-line:before { content: '\e807'; } /* '' */
+.gf-vector-point:before { content: '\e808'; } /* '' */
+.gf-vector-polygon:before { content: '\e809'; } /* '' */
