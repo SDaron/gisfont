@@ -8,8 +8,8 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.1"
-   width="88"
-   height="56"
+   width="96"
+   height="64"
    id="svg2">
   <defs
      id="defs4" />
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     d="M 44,0 48,42 52,40 48,2 44,0 z m -4,2 -8,4 4,34 8,4 L 40,2 z M 28,8 0,22 32,38 28,8 z m 44,6 4,14 12,-6 -16,-8 z M 8,30 0,34 44,56 88,34 80,30 44,48 8,30 z"
+     d="M 48,4 52,46 56,44 52,6 48,4 z m -4,2 -8,4 4,34 8,4 L 44,6 z M 32,12 4,26 36,42 32,12 z m 44,6 4,14 12,-6 -16,-8 z M 12,34 4,38 48,60 92,38 84,34 48,52 12,34 z"
      id="path3879-6-0"
      style="fill:#000000;fill-opacity:1;stroke:none" />
 </svg>

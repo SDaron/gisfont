@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'gisfont';
-  src: url('../font/gisfont.eot?81477048');
-  src: url('../font/gisfont.eot?81477048#iefix') format('embedded-opentype'),
-       url('../font/gisfont.woff?81477048') format('woff'),
-       url('../font/gisfont.ttf?81477048') format('truetype'),
-       url('../font/gisfont.svg?81477048#gisfont') format('svg');
+  src: url('../font/gisfont.eot?4401296');
+  src: url('../font/gisfont.eot?4401296#iefix') format('embedded-opentype'),
+       url('../font/gisfont.woff?4401296') format('woff'),
+       url('../font/gisfont.ttf?4401296') format('truetype'),
+       url('../font/gisfont.svg?4401296#gisfont') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'gisfont';
-    src: url('../font/gisfont.svg?81477048#gisfont') format('svg');
+    src: url('../font/gisfont.svg?4401296#gisfont') format('svg');
   }
 }
 */
