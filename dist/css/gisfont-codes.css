@@ -1,11 +1,18 @@
 
 .gf-layer:before { content: '\e800'; } /* '' */
 .gf-layer-heatmap:before { content: '\e801'; } /* '' */
-.gf-layers:before { content: '\e802'; } /* '' */
-.gf-layer-tile:before { content: '\e803'; } /* '' */
-.gf-layer-vector:before { content: '\e804'; } /* '' */
-.gf-tiles:before { content: '\e805'; } /* '' */
-.gf-vector-line:before { content: '\e806'; } /* '' */
-.gf-vector-point:before { content: '\e807'; } /* '' */
-.gf-vector-polygon:before { content: '\e808'; } /* '' */
-.gf-vectors:before { content: '\e809'; } /* '' */
+.gf-layer-tile:before { content: '\e802'; } /* '' */
+.gf-layer-vector:before { content: '\e803'; } /* '' */
+.gf-layers:before { content: '\e804'; } /* '' */
+.gf-vectors:before { content: '\e805'; } /* '' */
+.gf-source-geojson:before { content: '\e806'; } /* '' */
+.gf-source-mapquest:before { content: '\e807'; } /* '' */
+.gf-source-osm:before { content: '\e808'; } /* '' */
+.gf-source-stamen:before { content: '\e809'; } /* '' */
+.gf-source-tilewms:before { content: '\e80a'; } /* '' */
+.gf-source-vector:before { content: '\e80b'; } /* '' */
+.gf-source-xyz:before { content: '\e80c'; } /* '' */
+.gf-tiles:before { content: '\e80d'; } /* '' */
+.gf-vector-line:before { content: '\e80e'; } /* '' */
+.gf-vector-point:before { content: '\e80f'; } /* '' */
+.gf-vector-polygon:before { content: '\e810'; } /* '' */
