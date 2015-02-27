@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'gisfont';
-  src: url('../font/gisfont.eot?85314763');
-  src: url('../font/gisfont.eot?85314763#iefix') format('embedded-opentype'),
-       url('../font/gisfont.woff?85314763') format('woff'),
-       url('../font/gisfont.ttf?85314763') format('truetype'),
-       url('../font/gisfont.svg?85314763#gisfont') format('svg');
+  src: url('../font/gisfont.eot?81477048');
+  src: url('../font/gisfont.eot?81477048#iefix') format('embedded-opentype'),
+       url('../font/gisfont.woff?81477048') format('woff'),
+       url('../font/gisfont.ttf?81477048') format('truetype'),
+       url('../font/gisfont.svg?81477048#gisfont') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'gisfont';
-    src: url('../font/gisfont.svg?85314763#gisfont') format('svg');
+    src: url('../font/gisfont.svg?81477048#gisfont') format('svg');
   }
 }
 */
@@ -55,8 +55,8 @@
 .gf-layers:before { content: '\e802'; } /* '' */
 .gf-layer-tile:before { content: '\e803'; } /* '' */
 .gf-layer-vector:before { content: '\e804'; } /* '' */
-.gf-source-tile:before { content: '\e805'; } /* '' */
-.gf-source-vector:before { content: '\e806'; } /* '' */
-.gf-vector-line:before { content: '\e807'; } /* '' */
-.gf-vector-point:before { content: '\e808'; } /* '' */
-.gf-vector-polygon:before { content: '\e809'; } /* '' */
+.gf-tiles:before { content: '\e805'; } /* '' */
+.gf-vector-line:before { content: '\e806'; } /* '' */
+.gf-vector-point:before { content: '\e807'; } /* '' */
+.gf-vector-polygon:before { content: '\e808'; } /* '' */
+.gf-vectors:before { content: '\e809'; } /* '' */

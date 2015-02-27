@@ -11,10 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="88"
-   height="78"
+   height="56"
    id="svg2"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="heatmap-layer.svg">
+   sodipodi:docname="layer-heatmap.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -29,7 +29,7 @@
      id="namedview16"
      showgrid="true"
      inkscape:zoom="6.9532167"
-     inkscape:cx="50.452227"
+     inkscape:cx="50.739864"
      inkscape:cy="44.017778"
      inkscape:window-x="821"
      inkscape:window-y="159"
@@ -61,10 +61,10 @@
      inkscape:connector-curvature="0"
      style="fill:#000000;fill-opacity:1;stroke:none"
      id="path3879-6-0"
-     d="M 0,44 8,40 44,58 80,40 88,44 44,66 z" />
+     d="M 0,34 8,30 44,48 80,30 88,34 44,56 z" />
   <path
      style="fill:#000000;fill-opacity:1;stroke:none"
-     d="M 28,18 0,32 32,48 z"
+     d="M 28,8 0,22 32,38 z"
      id="path3987"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
@@ -72,11 +72,11 @@
      inkscape:connector-curvature="0"
      style="fill:#000000;fill-opacity:1;stroke:none"
      id="path3987-6"
-     d="m 32,16 8,-4 4,42 -8,-4 z"
+     d="m 32,6 8,-4 4,42 -8,-4 z"
      sodipodi:nodetypes="ccccc" />
   <path
      style="fill:#000000;fill-opacity:1;stroke:none"
-     d="m 72,24 4,14 12,-6 z"
+     d="m 72,14 4,14 12,-6 z"
      id="path3987-2"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccc" />
@@ -84,6 +84,6 @@
      inkscape:connector-curvature="0"
      style="fill:#000000;fill-opacity:1;stroke:none"
      id="path3987-6-4"
-     d="m 44,10 4,2 4,38 -4,2 z"
+     d="m 44,0 4,2 4,38 -4,2 z"
      sodipodi:nodetypes="ccccc" />
 </svg>

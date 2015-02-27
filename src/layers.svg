@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="88"
-   height="88"
+   height="70"
    id="svg2"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="layers.svg">
@@ -29,7 +29,7 @@
      id="namedview16"
      showgrid="true"
      inkscape:zoom="4.9166667"
-     inkscape:cx="46.94137"
+     inkscape:cx="47.34815"
      inkscape:cy="40.387998"
      inkscape:window-x="750"
      inkscape:window-y="105"
@@ -62,16 +62,16 @@
      inkscape:connector-curvature="0"
      style="fill:#000000;fill-opacity:1;stroke:none"
      id="path3879-6-0"
-     d="M 0,46 8,42 44,60 80,42 88,46 44,68 z" />
+     d="M 0,34 8,30 44,48 80,30 88,34 44,56 z" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#000000;fill-opacity:1;stroke:none"
      id="path3987"
-     d="M 0,32 44,12 88,32 44,54 z"
+     d="M 0,20 44,0 88,20 44,42 z"
      sodipodi:nodetypes="ccccc" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#000000;fill-opacity:1;stroke:none"
      id="path3879-6-0-9"
-     d="M 0,60 8,56 44,74 80,56 88,60 44,82 z" />
+     d="M 0,48 8,44 44,62 80,44 88,48 44,70 z" />
 </svg>
