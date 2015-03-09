@@ -16,4 +16,4 @@
 .gf-vector-polygon:before { content: '\e80e'; } /* '' */
 .gf-vectors:before { content: '\e80f'; } /* '' */
 .gf-source-tilewms:before { content: '\e810'; } /* '' */
-.gf-vectors-marker:before { content: '\e811'; } /* '' */
+.gf-vector-marker:before { content: '\e811'; } /* '' */

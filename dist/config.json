@@ -246,7 +246,7 @@
     },
     {
       "uid": "a659107351e3479d645dddcbca8b8e01",
-      "css": "vectors-marker",
+      "css": "vector-marker",
       "code": 59409,
       "src": "custom_icons",
       "selected": true,
@@ -255,7 +255,7 @@
         "width": 1000
       },
       "search": [
-        "vectors-marker"
+        "vector-marker"
       ]
     }
   ]
