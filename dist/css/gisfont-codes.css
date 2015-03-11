@@ -17,6 +17,6 @@
 .gf-vectors:before { content: '\e80f'; } /* '' */
 .gf-source-tilewms:before { content: '\e810'; } /* '' */
 .gf-vector-marker:before { content: '\e811'; } /* '' */
-.gf-contribute:before { content: '\e812'; } /* '' */
-.gf-globe:before { content: '\e813'; } /* '' */
+.gf-globe:before { content: '\e812'; } /* '' */
+.gf-contribute:before { content: '\e813'; } /* '' */
 .gf-map:before { content: '\e814'; } /* '' */
