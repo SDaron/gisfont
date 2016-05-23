@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'gisfont';
-  src: url('../font/gisfont.eot?89889761');
-  src: url('../font/gisfont.eot?89889761#iefix') format('embedded-opentype'),
-       url('../font/gisfont.woff2?89889761') format('woff2'),
-       url('../font/gisfont.woff?89889761') format('woff'),
-       url('../font/gisfont.ttf?89889761') format('truetype'),
-       url('../font/gisfont.svg?89889761#gisfont') format('svg');
+  src: url('../font/gisfont.eot?11644615');
+  src: url('../font/gisfont.eot?11644615#iefix') format('embedded-opentype'),
+       url('../font/gisfont.woff2?11644615') format('woff2'),
+       url('../font/gisfont.woff?11644615') format('woff'),
+       url('../font/gisfont.ttf?11644615') format('truetype'),
+       url('../font/gisfont.svg?11644615#gisfont') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,12 +15,12 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'gisfont';
-    src: url('../font/gisfont.svg?89889761#gisfont') format('svg');
+    src: url('../font/gisfont.svg?11644615#gisfont') format('svg');
   }
 }
 */
  
- [class^="icon-"]:before, [class*=" icon-"]:before {
+ [class^="gf-"]:before, [class*=" gf-"]:before {
   font-family: "gisfont";
   font-style: normal;
   font-weight: normal;
@@ -55,27 +55,27 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-vectors:before { content: '\e800'; } /* '' */
-.icon-source-osm:before { content: '\e801'; } /* '' */
-.icon-source-mapquest:before { content: '\e802'; } /* '' */
-.icon-vector-polygon:before { content: '\e803'; } /* '' */
-.icon-vector-points:before { content: '\e804'; } /* '' */
-.icon-source-geojson:before { content: '\e805'; } /* '' */
-.icon-schema:before { content: '\e806'; } /* '' */
-.icon-map:before { content: '\e807'; } /* '' */
-.icon-layer-vector:before { content: '\e808'; } /* '' */
-.icon-contribute:before { content: '\e809'; } /* '' */
-.icon-globe:before { content: '\e80a'; } /* '' */
-.icon-layer:before { content: '\e80b'; } /* '' */
-.icon-layer-heatmap:before { content: '\e80c'; } /* '' */
-.icon-layers:before { content: '\e80d'; } /* '' */
-.icon-layer-tile:before { content: '\e80e'; } /* '' */
-.icon-source-stamen:before { content: '\e80f'; } /* '' */
-.icon-source-tilewms:before { content: '\e810'; } /* '' */
-.icon-source-vector:before { content: '\e811'; } /* '' */
-.icon-source-xyz:before { content: '\e812'; } /* '' */
-.icon-tiles:before { content: '\e813'; } /* '' */
-.icon-vector-line:before { content: '\e814'; } /* '' */
-.icon-vector-linestring:before { content: '\e815'; } /* '' */
-.icon-vector-marker:before { content: '\e816'; } /* '' */
-.icon-vector-point:before { content: '\e817'; } /* '' */
+.gf-vectors:before { content: '\e800'; } /* '' */
+.gf-source-osm:before { content: '\e801'; } /* '' */
+.gf-source-mapquest:before { content: '\e802'; } /* '' */
+.gf-vector-polygon:before { content: '\e803'; } /* '' */
+.gf-vector-points:before { content: '\e804'; } /* '' */
+.gf-source-geojson:before { content: '\e805'; } /* '' */
+.gf-schema:before { content: '\e806'; } /* '' */
+.gf-map:before { content: '\e807'; } /* '' */
+.gf-layer-vector:before { content: '\e808'; } /* '' */
+.gf-contribute:before { content: '\e809'; } /* '' */
+.gf-globe:before { content: '\e80a'; } /* '' */
+.gf-layer:before { content: '\e80b'; } /* '' */
+.gf-layer-heatmap:before { content: '\e80c'; } /* '' */
+.gf-layers:before { content: '\e80d'; } /* '' */
+.gf-layer-tile:before { content: '\e80e'; } /* '' */
+.gf-source-stamen:before { content: '\e80f'; } /* '' */
+.gf-source-tilewms:before { content: '\e810'; } /* '' */
+.gf-source-vector:before { content: '\e811'; } /* '' */
+.gf-source-xyz:before { content: '\e812'; } /* '' */
+.gf-tiles:before { content: '\e813'; } /* '' */
+.gf-vector-line:before { content: '\e814'; } /* '' */
+.gf-vector-linestring:before { content: '\e815'; } /* '' */
+.gf-vector-marker:before { content: '\e816'; } /* '' */
+.gf-vector-point:before { content: '\e817'; } /* '' */
